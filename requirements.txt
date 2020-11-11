@@ -1,0 +1,2 @@
+pyTelegramBotAPI==3.6.6
+selectolax==0.2.7
